@@ -11,7 +11,6 @@ Atualmente sou estudante de Análise e Desenvolvimento de sistemas pela São Pau
 </div>
 <br/>
 <br/>
-<div>
+<div  align="center">
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=ferreiramadu&show_icons=true&t&theme=radical"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiramadu&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
 </div>
