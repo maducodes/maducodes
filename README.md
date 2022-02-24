@@ -1,6 +1,17 @@
 ### Oii sou a Madu, seja bem vindo!
 
 Atualmente sou estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. 
+Sou Desenvolvedora Front-End
+
+
+## Habilidades
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Madu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Madu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Madu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Madu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ## Conecte-se comigo
 
