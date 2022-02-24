@@ -1,7 +1,6 @@
 ### Oii sou a Madu, seja bem vindo!
 
-Atualmente sou estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. 
-Sou Desenvolvedora Front-End
+Atualmente sou Desenvolvedora Front-End e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School.
 
 
 ## Habilidades
