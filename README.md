@@ -23,6 +23,3 @@ Atualmente sou Desenvolvedora iOS e estudante de Análise e Desenvolvimento de s
 </div>
 <br/>
 <br/>
-<div>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=ferreiramadu&show_icons=true&t&theme=radical"/>
-</div>
