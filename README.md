@@ -1,7 +1,6 @@
 ### Seja bem vindo! 👋
 
-Eu sou Maria Eduarda, uma desenvolvedora de software com uma paixão por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho alguns dos projetos que venho trabalhando.
-
+Sou uma entusiasta do desenvolvimento de software, apaixonada por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho com entusiasmo alguns dos projetos em que tenho trabalhado. Sinta-se em casa e divirta-se explorando!
 
 ## 🛠 Tecnologias
 
@@ -11,8 +10,8 @@ Eu sou Maria Eduarda, uma desenvolvedora de software com uma paixão por transfo
 
 ## 🌐 Conecte-se comigo
 <div> 
-  <a href="https://instagram.com/maahjx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:maaahjx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/maducodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marih.silva@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maducodes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
