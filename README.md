@@ -1,6 +1,6 @@
 ### Seja bem vindo! 👋
 
-Eu sou Maria Eduarda, uma desenvolvedora de software com uma paixão ardente por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho alguns dos projetos que venho trabalhando.
+Eu sou Maria Eduarda, uma desenvolvedora de software com uma paixão por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho alguns dos projetos que venho trabalhando.
 
 
 ## 🛠 Tecnologias
