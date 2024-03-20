@@ -1,9 +1,8 @@
 ### Seja bem vindo! 👋
 
-Sou uma entusiasta do desenvolvimento de software, apaixonada por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho com entusiasmo alguns dos projetos em que tenho trabalhado. Sinta-se em casa e divirta-se explorando!
+Sou a Maria, desenvolvimento de software, apaixonada por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho alguns dos projetos em que tenho trabalhado!
 
 ## 🛠 Tecnologias
-
 •  Desenvolvimento iOS com Swift (UIKit, ViewCode).
 •  Desenvolvimento Front-end com HTML, CSS, Javascript, React, Vue and NextJS.
 •  Design e experiência do usuário.
