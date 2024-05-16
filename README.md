@@ -16,7 +16,5 @@ Sou a Maria, desenvolvimento de software, apaixonada por transformar ideias em c
 </div>
 <br/>
 <br/>
-
-[![maducodes top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maducodes&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
