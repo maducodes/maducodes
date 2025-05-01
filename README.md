@@ -1,13 +1,11 @@
-### Seja bem vindo! 👋
+### Welcome, My name is Maria Eduarda! 👋
+( Swift | UIKit | ViewCode | VIP | CocoaPods | SnapKit | REST APIs | Firebase | Git | XCTests ) 🚀
 
-Sou a Maria, desenvolvimento de software, apaixonada por transformar ideias em código. Este é o meu cantinho virtual, onde compartilho alguns dos projetos em que tenho trabalhado!
+👩‍💻 iOS Software Engineer (Mid-level) @Ci&T
+🎓 Degree in Systems Analysis and Development from SPTech
+💡 Love a good challenge
 
-## 🛠 Tecnologias
-•  Desenvolvimento iOS com Swift (UIKit, ViewCode).
-•  Desenvolvimento Front-end com HTML, CSS, Javascript, React, Vue and NextJS.
-•  Design e experiência do usuário.
-
-## 🌐 Conecte-se comigo
+## 🌐 Let's connect!
 <div> 
 <a href="https://www.figma.com/@maducodes" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/maducodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
