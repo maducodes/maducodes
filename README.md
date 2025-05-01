@@ -1,10 +1,11 @@
-### Welcome, My name is Maria Eduarda! 👋
-( Swift | UIKit | ViewCode | VIP | CocoaPods | SnapKit | REST APIs | Firebase | Git | XCTests ) 🚀
+### Welcome, My name is Maria Eduarda! 👋  <br/>
 
-👩‍💻 iOS Software Engineer (Mid-level) @Ci&T
-🎓 Degree in Systems Analysis and Development from SPTech
-💡 Love a good challenge
+( Swift | UIKit | ViewCode | VIP | CocoaPods | SnapKit | REST APIs | Firebase | Git | XCTests ) 🚀  <br/>
 
+👩‍💻 iOS Software Engineer (Mid-level) @Ci&T  <br/>
+🎓 Degree in Systems Analysis and Development from SPTech  <br/>
+💡 Love a good challenge  <br/>
+<br/>
 ## 🌐 Let's connect!
 <div> 
 <a href="https://www.figma.com/@maducodes" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
