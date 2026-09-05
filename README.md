@@ -2,7 +2,7 @@
 
 ( Swift | UIKit | ViewCode | VIP | CocoaPods | SnapKit | REST APIs | Firebase | Git | XCTests ) 🚀  <br/>
 
-👩‍💻 iOS Software Engineer (Mid-level) @Ci&T  <br/>
+👩‍💻 iOS Software Engineer (Mid-level) @C6Bank  <br/>
 🎓 Degree in Systems Analysis and Development from SPTech  <br/>
 💡 Love a good challenge  <br/>
 <br/>
@@ -13,9 +13,4 @@
   <a href = "mailto:marih.silva@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maducodes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maducodes&layout=compact&theme=default)
-<br/>
-<br/>
 <br/>
