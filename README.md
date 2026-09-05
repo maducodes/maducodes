@@ -1,6 +1,6 @@
 ### Welcome, My name is Maria Eduarda! 👋  <br/>
 
-( Swift | UIKit | ViewCode | SwiftUI | VIP | MVP-C | CocoaPods | REST APIs | Firebase | Git | XCTests | Swift Testing ) 🚀  <br/>
+( Swift | UIKit | ViewCode | SwiftUI | VIP | MVP-C | CocoaPods | REST APIs | Firebase | Git | Quick and Nimble | Swift Testing ) 🚀  <br/>
 
 👩‍💻 iOS Software Engineer (Mid-level) @C6Bank  <br/>
 🎓 Degree in Systems Analysis and Development from SPTech  <br/>
